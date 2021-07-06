@@ -1,0 +1,33 @@
+iteration 1
+P2 20
+20
+60 split
+iteration 2
+P1 25 --
+iteration 3
+P3 10
+55
+P4 45
+100
+iteration 4
+P2 19 --
+iteration 5
+P4 15
+134
+51 split
+iteration 6
+P3 38 --
+iteration 7
+P3 13
+185
+P4 19
+225
+{'id': 1, 'at': 0, 'bt1': 0, 'io': 12, 'bt2': 25, 'bt': 25, 'ct': 45}
+{'id': 2, 'at': 0, 'bt1': 20, 'io': 32, 'bt2': 19, 'bt': 39, 'ct': 119}
+{'id': 3, 'at': 2, 'bt1': 10, 'io': 42, 'bt2': 51, 'bt': 61, 'ct': 185}
+{'id': 4, 'at': 5, 'bt1': 60, 'io': 72, 'bt2': 19, 'bt': 79, 'ct': 225}
+Two pointer
+avg_TAT = 141.75
+avg_WT = 90.75
+--------------------------- 
+
